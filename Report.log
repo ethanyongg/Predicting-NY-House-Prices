@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.5)  10 AUG 2023 22:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.5)  24 SEP 2023 15:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1457,133 +1457,133 @@ LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
 (Font)              scaled to size 6.72005pt on input line 86.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 92.
+(Font)              scaled to size 9.60007pt on input line 91.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.82996pt on input line 92.
+(Font)              scaled to size 8.82996pt on input line 91.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 8.82996pt on input line 92.
-<Report_files/figure-latex/{Heatmap}-1.pdf, id=76, 216.81pt x 216.81pt>
+(Font)              scaled to size 8.82996pt on input line 91.
+<Report_files/figure-latex/{Heatmap}-1.pdf, id=76, 202.7575pt x 206.7725pt>
 File: Report_files/figure-latex/{Heatmap}-1.pdf Graphic file (type pdf)
 <use Report_files/figure-latex/{Heatmap}-1.pdf>
-Package pdftex.def Info: Report_files/figure-latex/{Heatmap}-1.pdf  used on input line 128.
-(pdftex.def)             Requested size: 172.26802pt x 172.2771pt.
+Package pdftex.def Info: Report_files/figure-latex/{Heatmap}-1.pdf  used on input line 124.
+(pdftex.def)             Requested size: 172.26802pt x 175.68488pt.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 6.18097pt on input line 132.
+(Font)              scaled to size 6.18097pt on input line 128.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 7.68005pt on input line 163.
+(Font)              scaled to size 7.68005pt on input line 157.
 [1{/Users/ethan_yong_1/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
  <./Report_files/figure-latex/{Heatmap}-1.pdf>]
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 6.62247pt on input line 235.
-LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 235.
+(Font)              scaled to size 6.62247pt on input line 226.
+LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 226.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 7.20004pt on input line 235.
+(Font)              scaled to size 7.20004pt on input line 226.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 5.04pt on input line 235.
+(Font)              scaled to size 5.04pt on input line 226.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 3.60002pt on input line 235.
+(Font)              scaled to size 3.60002pt on input line 226.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 7.20004pt on input line 235.
+(Font)              scaled to size 7.20004pt on input line 226.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 5.04pt on input line 235.
+(Font)              scaled to size 5.04pt on input line 226.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 3.60002pt on input line 235.
+(Font)              scaled to size 3.60002pt on input line 226.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 7.20004pt on input line 235.
+(Font)              scaled to size 7.20004pt on input line 226.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 5.04pt on input line 235.
+(Font)              scaled to size 5.04pt on input line 226.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 3.60002pt on input line 235.
+(Font)              scaled to size 3.60002pt on input line 226.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 7.20004pt on input line 235.
+(Font)              scaled to size 7.20004pt on input line 226.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 5.04pt on input line 235.
+(Font)              scaled to size 5.04pt on input line 226.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 3.60002pt on input line 235.
+(Font)              scaled to size 3.60002pt on input line 226.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 7.20004pt on input line 235.
+(Font)              scaled to size 7.20004pt on input line 226.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 5.04pt on input line 235.
+(Font)              scaled to size 5.04pt on input line 226.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 3.60002pt on input line 235.
+(Font)              scaled to size 3.60002pt on input line 226.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 7.20004pt on input line 235.
+(Font)              scaled to size 7.20004pt on input line 226.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 5.04pt on input line 235.
+(Font)              scaled to size 5.04pt on input line 226.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 3.60002pt on input line 235.
+(Font)              scaled to size 3.60002pt on input line 226.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 7.20004pt on input line 235.
+(Font)              scaled to size 7.20004pt on input line 226.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 5.04pt on input line 235.
+(Font)              scaled to size 5.04pt on input line 226.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 3.60002pt on input line 235.
+(Font)              scaled to size 3.60002pt on input line 226.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 264.
+(Font)              scaled to size 5.76004pt on input line 252.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 264.
+(Font)              scaled to size 4.80003pt on input line 252.
 [2]
-<plot10.png, id=134, 1204.5pt x 1203.49625pt>
+<plot10.png, id=120, 1204.5pt x 1203.49625pt>
 File: plot10.png Graphic file (type png)
 <use plot10.png>
-Package pdftex.def Info: plot10.png  used on input line 418.
+Package pdftex.def Info: plot10.png  used on input line 401.
 (pdftex.def)             Requested size: 120.5895pt x 120.48521pt.
-<plot11.png, id=136, 1204.5pt x 1203.49625pt>
+<plot11.png, id=122, 1204.5pt x 1203.49625pt>
 File: plot11.png Graphic file (type png)
 <use plot11.png>
-Package pdftex.def Info: plot11.png  used on input line 418.
+Package pdftex.def Info: plot11.png  used on input line 401.
 (pdftex.def)             Requested size: 120.5895pt x 120.48521pt.
-<plot1.png, id=137, 1204.5pt x 1203.49625pt>
+<plot1.png, id=123, 1204.5pt x 1203.49625pt>
 File: plot1.png Graphic file (type png)
 <use plot1.png>
-Package pdftex.def Info: plot1.png  used on input line 427.
+Package pdftex.def Info: plot1.png  used on input line 410.
 (pdftex.def)             Requested size: 120.5895pt x 120.48521pt.
-<plot2.png, id=138, 1204.5pt x 1203.49625pt>
+<plot2.png, id=124, 1204.5pt x 1203.49625pt>
 File: plot2.png Graphic file (type png)
 <use plot2.png>
-Package pdftex.def Info: plot2.png  used on input line 427.
+Package pdftex.def Info: plot2.png  used on input line 410.
 (pdftex.def)             Requested size: 120.5895pt x 120.48521pt.
-<plot3.png, id=139, 1204.5pt x 1203.49625pt>
+<plot3.png, id=125, 1204.5pt x 1203.49625pt>
 File: plot3.png Graphic file (type png)
 <use plot3.png>
-Package pdftex.def Info: plot3.png  used on input line 436.
+Package pdftex.def Info: plot3.png  used on input line 419.
 (pdftex.def)             Requested size: 120.5895pt x 120.48521pt.
-<plot4.png, id=140, 1204.5pt x 1203.49625pt>
+<plot4.png, id=126, 1204.5pt x 1203.49625pt>
 File: plot4.png Graphic file (type png)
 <use plot4.png>
-Package pdftex.def Info: plot4.png  used on input line 436.
+Package pdftex.def Info: plot4.png  used on input line 419.
 (pdftex.def)             Requested size: 120.5895pt x 120.48521pt.
-<plot5.png, id=141, 1204.5pt x 1203.49625pt>
+<plot5.png, id=127, 1204.5pt x 1203.49625pt>
 File: plot5.png Graphic file (type png)
 <use plot5.png>
-Package pdftex.def Info: plot5.png  used on input line 445.
+Package pdftex.def Info: plot5.png  used on input line 428.
 (pdftex.def)             Requested size: 120.5895pt x 120.48521pt.
-<plot6.png, id=142, 1204.5pt x 1203.49625pt>
+<plot6.png, id=128, 1204.5pt x 1203.49625pt>
 File: plot6.png Graphic file (type png)
 <use plot6.png>
-Package pdftex.def Info: plot6.png  used on input line 445.
+Package pdftex.def Info: plot6.png  used on input line 428.
 (pdftex.def)             Requested size: 120.5895pt x 120.48521pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Report_files/figure-latex/unnamed-chunk-8-1.pdf, id=143, 289.08pt x 289.08pt>
+<Report_files/figure-latex/unnamed-chunk-8-1.pdf, id=129, 283.0575pt x 283.0575pt>
 File: Report_files/figure-latex/unnamed-chunk-8-1.pdf Graphic file (type pdf)
 <use Report_files/figure-latex/unnamed-chunk-8-1.pdf>
-Package pdftex.def Info: Report_files/figure-latex/unnamed-chunk-8-1.pdf  used on input line 454.
-(pdftex.def)             Requested size: 184.57368pt x 184.57387pt.
+Package pdftex.def Info: Report_files/figure-latex/unnamed-chunk-8-1.pdf  used on input line 437.
+(pdftex.def)             Requested size: 184.57368pt x 184.5769pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Report_files/figure-latex/unnamed-chunk-9-1.pdf, id=144, 289.08pt x 289.08pt>
+<Report_files/figure-latex/unnamed-chunk-9-1.pdf, id=130, 283.0575pt x 283.0575pt>
 File: Report_files/figure-latex/unnamed-chunk-9-1.pdf Graphic file (type pdf)
 <use Report_files/figure-latex/unnamed-chunk-9-1.pdf>
-Package pdftex.def Info: Report_files/figure-latex/unnamed-chunk-9-1.pdf  used on input line 463.
-(pdftex.def)             Requested size: 184.57368pt x 184.57387pt.
+Package pdftex.def Info: Report_files/figure-latex/unnamed-chunk-9-1.pdf  used on input line 446.
+(pdftex.def)             Requested size: 184.57368pt x 184.5769pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1591,15 +1591,15 @@ No file Report.bbl.
 
 AED: lastpage setting LastPage
 - LAST -
-Extra skip:89.09712pt
+Extra skip:89.09105pt
 Left:675.94505pt/0.0pt
-Right:586.84793pt/0.0pt
-Split: 626.89648pt
-Output:626.89648pt
+Right:586.854pt/0.0pt
+Split: 626.89952pt
+Output:626.89952pt
 Pageshrink: 0.0pt
 Pagestretch: 0.0pt
 @colht:675.94505pt
-FLUSHEND [output]: 626.89648pt
+FLUSHEND [output]: 626.89952pt
 FLUSHEND [leftcolumn badness]: 1000000
 FUSHEND [rightcolumn badness]: 0
 [3 <./plot10.png> <./plot11.png> <./plot1.png> <./plot2.png> <./plot3.png> <./plot4.png> <./plot5.png> <./plot6.png> <./Report_files/figure-latex/unnamed-chunk-8-1.pdf> <./Report_files/figure-latex/unnamed-chunk-9-1.pdf>] (./Report.aux)
@@ -1607,18 +1607,18 @@ Package rerunfilecheck Info: File `Report.out' has not changed.
 (rerunfilecheck)             Checksum: 50E096C5A39E41EE5244A4B14BE6FCDC;2221.
  ) 
 Here is how much of TeX's memory you used:
- 33264 strings out of 476931
- 614044 string characters out of 5824092
- 983723 words of memory out of 5000000
+ 33247 strings out of 476931
+ 613784 string characters out of 5824092
+ 983743 words of memory out of 5000000
  53431 multiletter control sequences out of 15000+600000
  555723 words of font info for 351 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,14n,131p,1003b,575s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/ethan_yong_1/Library/TinyTeX/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}{/Users/ethan_yong_1/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/Users/ethan_yong_1/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/ethan_yong_1/Library/TinyTeX/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></Users/ethan_yong_1/Library/TinyTeX/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></Users/ethan_yong_1/Library/TinyTeX/texmf-dist/fonts/type1/bitstrea/charter/bchri8a.pfb></Users/ethan_yong_1/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></Users/ethan_yong_1/Library/TinyTeX/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr7t.pfb></Users/ethan_yong_1/Library/TinyTeX/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr7y.pfb></Users/ethan_yong_1/Library/TinyTeX/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb></Users/ethan_yong_1/Library/TinyTeX/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></Users/ethan_yong_1/Library/TinyTeX/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Report.pdf (3 pages, 1380675 bytes).
+Output written on Report.pdf (3 pages, 1381255 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
- 181 compressed objects within 2 object streams
- 49 named destinations out of 1000 (max. 500000)
+ 213 PDF objects out of 1000 (max. 8388607)
+ 162 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
  77004 words of extra memory for PDF output out of 89155 (max. 10000000)
 

@@ -6,7 +6,7 @@ author:
   - name: Ethan Yong, Sandithi Lewanda, Bradon Holland, Michael Nguyen, Dan Mahesh
 
 keywords:
-  - Github - https://github.com/ethanyongg/Personal-Projects
+  - Github - https://github.com/ethanyongg/Predicting-NYC-House-Prices
 
 # Optional: line of arbitrary text with additional information.
 # Could be used, for example, to mention the bibliographic info in a post-print.
@@ -17,7 +17,7 @@ keywords:
 #lead_author_surname: Author and Author
 
 # Place eg a DOI URL or CRAN Package URL here
-doi_footer: "https://github.com/ethanyongg/Personal-Projects"
+doi_footer: "https://github.com/ethanyongg/Predicting-NYC-House-Prices"
 
 # Abstract
 abstract: |
